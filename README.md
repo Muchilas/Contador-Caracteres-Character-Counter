@@ -4,9 +4,11 @@ Este projeto demonstra o uso de uma função simples em JavaScript para contar o
 📋 Funcionalidades
 Receber uma string como entrada.
 Retornar o número total de caracteres da string.
+
 🚀 Tecnologias
 HTML: Para estrutura básica da página.
 JavaScript: Para lógica de contagem de caracteres.
+
 📂 Como usar
 Abra o arquivo HTML em seu navegador.
 O código contém uma string predefinida, "Bloco de cimento".
@@ -18,9 +20,11 @@ This project demonstrates the use of a simple JavaScript function to count the n
 📋 Features
 Takes a string as input.
 Returns the total number of characters in the string.
+
 🚀 Technologies
 HTML: For basic page structure.
 JavaScript: For character counting logic.
+
 📂 How to Use
 Open the HTML file in your browser.
 The code includes a predefined string, "Bloco de cimento".
